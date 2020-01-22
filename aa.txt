@@ -1,3 +1,7 @@
 modity a.txt
 hello aman
+<<<<<<< HEAD
 saket
+=======
+new line
+>>>>>>> 9e6bc7828c6e3599ef2ead049eb6ddf8b807b86f
